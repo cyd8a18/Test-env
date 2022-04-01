@@ -1,0 +1,5 @@
+**/*.pyc
+.idea
+**/*.bazel
+temp
+**/*.so
